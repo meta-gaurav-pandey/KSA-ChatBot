@@ -1,0 +1,14 @@
+**************************Agile
+* The older convestional model such as Waterfall model , had a lot of flaws hence agile comes into the picture
+* It is the practice followed to continous iteration of the developement and testing in SDLC
+* Break the projects into smaller chunks so, client will be able to see the progress of projects constantly
+* More adaptable to chaging requirement 
+* Encourage the F2F communication , teamwork and constant feedback from the end users
+
+
+******Scrum
+* Popular apporch to implement the Agile methodology
+* Help users to manage the software developement with iterative method 
+* Regular and repeatable work cycle in Scrum during which work is completed and made ready for reviews 
+  is known as Scrum sprint
+*  Sprint hardly last for 1-2 weeks and for next sprint plan is made team workers
